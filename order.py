@@ -144,3 +144,4 @@ if op == "Yes":
                         if oppp == "No":
                             print(f"Ok then, your total will be ${price[name]}!")
                     
+print(f"Thank you {name}, for choosing to eat at DillBill's delight!")
